@@ -32,3 +32,11 @@ Here’s the layout of the repo:
 - [ ] Project4 — in progress
 - [ ] Project5 — coming soon
 ---
+---
+
+## 🙌 Acknowledgment
+
+This work has been developed under the guidance of [Amir Zamani Doost](https://www.linkedin.com/in/amir-zamanidoost-51bb6b166/).  
+Special thanks for mentorship and support in learning Machine Learning and Deep Learning.
+
+---
