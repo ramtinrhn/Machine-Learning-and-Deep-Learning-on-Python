@@ -29,7 +29,7 @@ Here’s the layout of the repo:
 - [x] Project1 — completed  
 - [ ] Project2 — in progress
 - [x] Project3 — completed  
-- [ ] Project4 — in progress
+- [x] Project4 — completed
 - [ ] Project5 — coming soon
 ---
 ---
